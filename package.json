@@ -1,5 +1,6 @@
 {
   "name": "webpack-bundle-test",
+  "homepage": "https://daria-zakharova.github.io/webpack-bundle-test/",
   "version": "1.0.0",
   "description": "an attempt to create a webpack bundle for pet projects",
   "type": "module",
