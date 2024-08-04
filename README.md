@@ -3,7 +3,7 @@
 syntax.
 
 - To use ibg just add a div wrap to an img it will be automatically transformed into background image of the wrap.
-Keep in mind to set exact sizing for the wrap.
+Keep in mind to set sizing for the wrap.
 
 - to run use
 ```npm run dev```
